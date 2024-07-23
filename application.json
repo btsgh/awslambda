@@ -13,8 +13,16 @@
   "icon": "music",
   "pages": [
     {
+      "id": "Tasks",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
